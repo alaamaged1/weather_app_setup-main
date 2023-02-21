@@ -1,6 +1,7 @@
 # weather_app
 
-A new Flutter project.
+A new Weather APP Flutter project,
+Using some features like Bloc statemanagement and rest api.
 
 ## Getting Started
 
